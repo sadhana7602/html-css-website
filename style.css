@@ -1,0 +1,65 @@
+.whole {height: auto;
+	width: 100%;
+	border-style: groove;
+	border-color:black; 
+
+}
+.header img{
+	height:150px;
+	width: 99%;
+	border-style: groove;
+	margin-left: 0.3%; 
+}
+.menu{
+	height: 25px;
+	width: 99%;
+	background-color: blue;
+	margin-left: 0.5%;
+	margin-bottom: 3px;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	font size: 18px;
+	padding-top: 8px;
+}
+.img img {
+	width: 70%;
+	height: 400px;
+	margin-top: 5px;
+
+}
+.data h1{
+	color: red;
+}
+.data{
+	width: 60%;
+	float: left;
+	height: 300px;
+	border-style: groove;
+	margin-top: 10px;
+
+}
+.data p{
+	font-size: 20px;
+}
+.data2{
+	width: 39%;
+	float: right;
+	height: 300px;
+	border-style: groove;
+	margin-top: 10px;
+}
+.data2 img{
+	width: 70px;
+	float: right;
+	height:50px;
+}
+.data2 h1{
+	color:red;
+	float: left;
+
+}
+.data2 p{
+	font-size: 20px;
+}
